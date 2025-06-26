@@ -1,6 +1,6 @@
-## Привет 👋
-Я Камалов Нияз, разработчик на Python
-## Мой стек
+## HI 👋
+I'm Kamalov Niyaz, Python developer
+## My stack
 Python, Postges, Git, Linux, Windows, Bash, Apache, Nginx
 
 <!--
