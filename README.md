@@ -1,7 +1,7 @@
 ## Привет 👋
 Я Камалов Нияз, разработчик на Python
 ## Мой стек
-Linux, Windows, Bash, Python, Apache, Nginx, Git
+Python, Postges, Git, Linux, Windows, Bash, Apache, Nginx
 
 <!--
 **NijazKa/NijazKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
