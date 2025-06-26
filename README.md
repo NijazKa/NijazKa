@@ -1,7 +1,7 @@
 ## HI 👋
 I'm Kamalov Niyaz, Python developer
 ## My stack
-Python, Postges, Git, Linux, Windows, Bash, Apache, Nginx
+Python, Postges, API, Git, Trading for, Linux, Windows, Bash, Apache, Nginx
 
 <!--
 **NijazKa/NijazKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
